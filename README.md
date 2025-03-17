@@ -24,10 +24,10 @@
 [<img align="left" alt="Sanju Mathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]:www.linkedin.com/in/sanju-mathew-426a7b299
+[linkedin]: www.linkedin.com/in/sanju-mathew-426a7b299
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjumathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
