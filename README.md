@@ -36,10 +36,10 @@ Explore some of my hands-on projects documented on my website:
 
 ## 📜 Certifications
 
-- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/1e4b3e4e-5b3b-4b3e-b3e4-5b3e4b3e4b3e)
-- 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/2e4b3e4e-6b3b-5b3e-c3e4-6b3e5b3e5b3e)
-- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4e4b3e4e-8b3b-7b3e-e3e4-8b3e7b3e7b3e)
-- 🐧 [CompTIA Linux+ ce Certification](https://www.credly.com/badges/3e4b3e4e-7b3b-6b3e-d3e4-7b3e6b3e6b3e)
+- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e55ecba2-c044-4f03-a113-edb965d12e2e)
+- 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/7813a4ab-106a-4e06-8eb6-f1d4391a6a30)
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4d0a8f50-1a22-4a47-b457-3305f2d1506c)
+- 🐧 [CompTIA Linux+ ce Certification](https://www.credly.com/badges/b2bb33f2-e3de-420e-9a01-58c703c75731)
 
 
 ---
