@@ -45,7 +45,7 @@ Explore some of my hands-on projects documented on my website:
 ## 🌐 Let's Connect
 
 * 🌍 [homelab.sanjuprojects.uk](https://homelab.sanjuprojects.uk)
-* 💼 [LinkedIn](www.linkedin.com/in/sanju-mathew-426a7b299)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanju-mathew-426a7b299)
 * 🧑‍💻 [GitHub](https://github.com/sanjumathew)
 
 
