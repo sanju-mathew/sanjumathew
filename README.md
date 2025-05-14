@@ -1,42 +1,53 @@
-<h1>Hi, I'm Sanju <br/><a href="https://github.com/sanju-mathew">Linux, Docker and AWS projects</a> <a href="www.linkedin.com/in/sanju-mathew-426a7b299"></a>
+# 👋 Hi, I'm Sanju Mathew
 
-<h2>👨‍💻 Passionate AWS Certified Developer Associate and Solutions Architect Associate with a keen interest in IT:</h2>
+I'm a passionate technology enthusiast with a strong background in Linux system administration, DevOps, and cloud-native solutions. I enjoy building and experimenting with infrastructure in my homelab, which allows me to dive deep into modern technologies like Kubernetes, Docker, and serverless computing.
 
-- <b>Project Name</b>
-  - [Project-Link](https://github.com/sanju-mathew)
-- <b>Project name (comma separated list)</b>
-  - [Project-Link](https://github.com/sanju-mathew) <b><i>(comma separated list)</b></i>
-- <b>Project Name</b>
-  - [Project-Link](https://github.com/sanju-mathew)
-  
-- <b>Project Name</b>
-  - [Project-Link](https://github.com/sanju-mathew)
-- <b>Project name (comma separated list)</b>
-  - [Project-Link](https://github.com/sanju-mathew) <b><i>(comma separated list)</b></i>
-- <b>Project Name</b>
-  - [Project-Link](https://github.com/sanju-mathew)
-<h2> 🖥️ My website </h2>
+---
 
-- [Website name](Link)
+## 🚀 Skills & Expertise
 
-<h2> ☎️ Connect with me:</h2>
+* **Cloud & Infrastructure**: AWS, EC2, RDS, Lambda, VPC, S3, CloudFormation
+* **Containerization & Orchestration**: Docker, Kubernetes, ECS, ECR, Fargate, Traefik, Helm
+* **DevOps Tools**: Git, CI/CD, CodePipeline, CodeDeploy, cert-manager
+* **Linux System Administration**: Ubuntu, Debian, Bash scripting, system hardening
+* **Networking**: pfSense, VLANs, DNS, VPN (WireGuard/OpenVPN)
+* **Monitoring & Observability**: Grafana, Prometheus, Uptime Kuma
 
-[<img align="left" alt="Sanju Mathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
+
+## 🛠️ Homelab Projects
+
+Explore some of my hands-on projects documented on my website:
+
+* 🔧 [My Homelab Infrastructure Overview](https://homelab.sanjuprojects.uk/homelab/)
+* 🌐 [Traefik Proxy for Docker and Kubernetes](https://homelab.sanjuprojects.uk/traefik-proxy/)
+* 📝 [WordPress and Docker Deployment](https://homelab.sanjuprojects.uk/wordpress-and-docker/)
+* 🔒 [CrowdSec with Docker](https://homelab.sanjuprojects.uk/crowdsec-and-docker/)
+* 🛡️ [Pangolin Tunnel Server in AWS](https://homelab.sanjuprojects.uk/pangolin-in-aws/)
+* 📊 [Grafana and Prometheus Monitoring Stack](https://homelab.sanjuprojects.uk/grafana-and-prometheus/)
+* ☁️ [Serverless WordPress on AWS via CloudFormation](https://homelab.sanjuprojects.uk/serverless%e2%80%91ready-wordpress-on-aws-via-cloudformation/)
+* ☸️ [Kubernetes Cluster on Proxmox (Part 1)](https://homelab.sanjuprojects.uk/kubernetes-cluster/)
+* 🧱 [Kubernetes Cluster Installation (Part 2)](https://homelab.sanjuprojects.uk/kubernetes-cluster-installation/)
+* ⚙️ [Helm, MetalLB, and Longhorn Setup (Part 3)](https://homelab.sanjuprojects.uk/kubernetes-helm-metallb-and-longhorn/)
+
+---
+
+## 📜 Certifications
+
+## 📜 Certifications
+
+- 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/1e4b3e4e-5b3b-4b3e-b3e4-5b3e4b3e4b3e)
+- 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/2e4b3e4e-6b3b-5b3e-c3e4-6b3e5b3e5b3e)
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4e4b3e4e-8b3b-7b3e-e3e4-8b3e7b3e7b3e)
+- 🐧 [CompTIA Linux+ ce Certification](https://www.credly.com/badges/3e4b3e4e-7b3b-6b3e-d3e4-7b3e6b3e6b3e)
 
 
-[linkedin]: https://linkedin.com/in/sanju-mathew-426a7b299
+---
 
-<!--
-**sanjumathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Let's Connect
 
-Here are some ideas to get you started:
+* 🌍 [homelab.sanjuprojects.uk](https://homelab.sanjuprojects.uk)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanjumathew/)
+* 🧑‍💻 [GitHub](https://github.com/sanjumathew)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
