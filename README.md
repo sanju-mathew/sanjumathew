@@ -34,8 +34,6 @@ Explore some of my hands-on projects documented on my website:
 
 ## 📜 Certifications
 
-## 📜 Certifications
-
 - 🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e55ecba2-c044-4f03-a113-edb965d12e2e)
 - 🏅 [AWS Certified Developer – Associate](https://www.credly.com/badges/7813a4ab-106a-4e06-8eb6-f1d4391a6a30)
 - 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4d0a8f50-1a22-4a47-b457-3305f2d1506c)
